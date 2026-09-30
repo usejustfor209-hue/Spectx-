@@ -1,0 +1,6 @@
+{
+  "name": "Omni AI",
+  "description": "Next-gen AI assistant powered by Gemini 3.5 Flash with automated task scheduling, real-time voice conversations, multi-modal reasoning, and executive productivity tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
